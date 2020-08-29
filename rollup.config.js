@@ -26,8 +26,7 @@ export default {
     vue(),
     resolve(),
     babel({
-      runtimeHelpers: true,
-      exclude: /node_modules/
+      runtimeHelpers: true
     }),
     postcss({
       plugins: []

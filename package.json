@@ -34,7 +34,7 @@
     "rollup-plugin-terser": "^5.1.3",
     "rollup-plugin-uglify": "^6.0.3",
     "rollup-plugin-vue": "^5.1.4",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   },
   "repository": {
     "type": "git",

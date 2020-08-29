@@ -6,7 +6,6 @@ module.exports = function (api) {
     // 'minify'
   ];
   const plugins = [
-    '@babel/transform-runtime',
     '@babel/plugin-proposal-export-default-from',
     '@babel/plugin-proposal-optional-chaining'
   ];
